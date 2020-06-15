@@ -31,7 +31,3 @@ while True:
                     target[j] = None
                     count -= 1
         print(count)
-
-# test = [None, 1, 2, 3, None]
-# print(len(test))
-# print(test.count(None))
