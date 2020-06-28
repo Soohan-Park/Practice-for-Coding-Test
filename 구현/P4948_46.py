@@ -1,3 +1,5 @@
+# 어렵다.. 에라토스테네스의 채는 어떻게 쓰는건지.. 잠시 보류
+
 # import math
 # while True:
 #     target = int(input())
